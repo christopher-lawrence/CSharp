@@ -1,0 +1,6 @@
+D:\src\C#\hack_asm\hack_asm\bin\Debug\hack_asm.exe.config
+D:\src\C#\hack_asm\hack_asm\bin\Debug\hack_asm.exe
+D:\src\C#\hack_asm\hack_asm\bin\Debug\hack_asm.pdb
+D:\src\C#\hack_asm\hack_asm\obj\Debug\hack_asm.csprojResolveAssemblyReference.cache
+D:\src\C#\hack_asm\hack_asm\obj\Debug\hack_asm.exe
+D:\src\C#\hack_asm\hack_asm\obj\Debug\hack_asm.pdb
